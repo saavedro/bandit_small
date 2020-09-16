@@ -1,0 +1,4 @@
+wheel
+notebook
+matplotlib
+tqdm
